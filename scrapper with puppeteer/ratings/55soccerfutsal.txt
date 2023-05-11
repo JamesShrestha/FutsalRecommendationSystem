@@ -1,0 +1,626 @@
+[
+    {
+        "name": "sujan karki",
+        "rating": "1 star"
+    },
+    {
+        "name": "Roman Karki",
+        "rating": "1 star"
+    },
+    {
+        "name": "Anup Acharya",
+        "rating": "1 star"
+    },
+    {
+        "name": "shreek",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bisesh Timilsina (Gaurab)",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bipin Koirala",
+        "rating": "1 star"
+    },
+    {
+        "name": "Sabin Khadka",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Sushek Tamrakar",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bhupal Rai",
+        "rating": "1 star"
+    },
+    {
+        "name": "Prabesh Sharma",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Aashish Acharya",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Sajani Budathoki",
+        "rating": "1 star"
+    },
+    {
+        "name": "Santosh Tamang",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Lol Skeleton",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Sachin Pokharel",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Bishrant Baral",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Sushil Subedi",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Justin Flores (Gospel Nerd)",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Darkness Ssenkrad",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Aayush Shrestha",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Rahul singh",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Anish Siwakoti",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Bed Narayan",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Mahesh Subedi",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Sol Badguy",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Maheshwar Chaudhary",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Anil B.K",
+        "rating": "1 star"
+    },
+    {
+        "name": "Anup Khanal",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Sagar Khatiwada",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Subash Dhakal",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Xus",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Ààyûsh Tîmàl ç ñá",
+        "rating": "2 stars"
+    },
+    {
+        "name": "sagar karki",
+        "rating": "3 stars"
+    },
+    {
+        "name": "rajan maharjan",
+        "rating": "1 star"
+    },
+    {
+        "name": "Pradeep Rai",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Thaneshwar",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Bijaya Paksanwa Limbu",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Kunal Krishna Chaudhary",
+        "rating": "5 stars"
+    },
+    {
+        "name": "SHREEDHAR ARYAL",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Bikalpa Acharya",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Milan Shrestha",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bishes Adhikari",
+        "rating": "1 star"
+    },
+    {
+        "name": "Nikhil Rawal",
+        "rating": "2 stars"
+    },
+    {
+        "name": "DJ Bik",
+        "rating": "1 star"
+    },
+    {
+        "name": "Aabhas Basnet",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Kushal Dhami",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bikesh Mahato",
+        "rating": "1 star"
+    },
+    {
+        "name": "Sandy",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Biken",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Spicy plus plus",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Binaya Roka",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Rajesh Regmi",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Dagendra Karki",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Susan Bhattarai",
+        "rating": "4 stars"
+    },
+    {
+        "name": "susant shrestha",
+        "rating": "1 star"
+    },
+    {
+        "name": "Biraj Timalsina",
+        "rating": "4 stars"
+    },
+    {
+        "name": "G.O.A.T",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Niskarsha Ghimire",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Famous to be Flop",
+        "rating": "3 stars"
+    },
+    {
+        "name": "pradeep singh",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Rajesh Poudel",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Parek Raj Budhthapa",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Rubin Magar",
+        "rating": "1 star"
+    },
+    {
+        "name": "Ujjwal Shrestha",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Nishchal Maharjan",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Bibash Gaming",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Abhash Sapkota",
+        "rating": "1 star"
+    },
+    {
+        "name": "विजय राई",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Roshan Dhakal",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Nitesh Dhungana",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Santosh Chaudhary",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Sulav Devkota",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Sailendra khadka",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Sabin Shrestha",
+        "rating": "1 star"
+    },
+    {
+        "name": "Govardhan Joshi",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Yeju Tuladhar",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Moto Insanity Nepal",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Vishal Adhikari",
+        "rating": "3 stars"
+    },
+    {
+        "name": "pramod devkota",
+        "rating": "1 star"
+    },
+    {
+        "name": "arjun tamang",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Bikas Gyawali",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Ankit Silwal",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Raj Dhungel",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Rupesh Bhatta",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Milan Malla",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Vikas Thakur",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Xtha Susaan",
+        "rating": "1 star"
+    },
+    {
+        "name": "Suranjan Acharya",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Purushottam Luitel",
+        "rating": "3 stars"
+    },
+    {
+        "name": "shivu khatri",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Binod shrestha",
+        "rating": "1 star"
+    },
+    {
+        "name": "Pushpa Joshi",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Aayush Nepal",
+        "rating": "5 stars"
+    },
+    {
+        "name": "anil maharjan",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Black Lotus",
+        "rating": "1 star"
+    },
+    {
+        "name": "Kapil Ghimire",
+        "rating": "4 stars"
+    },
+    {
+        "name": "avinash basnet",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Manish Sigdel",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Bhuwan Rai",
+        "rating": "1 star"
+    },
+    {
+        "name": "Bipin Baglung",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Rojit Shrestha",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Durgesh yadav",
+        "rating": "4 stars"
+    },
+    {
+        "name": "s M",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Manish Vaidya",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Samir Maharjan",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Avinash Pradhan",
+        "rating": "3 stars"
+    },
+    {
+        "name": "krish siwakoti",
+        "rating": "1 star"
+    },
+    {
+        "name": "sabin thapa",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Abhishek Dangol",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Dr Sumit Mishra",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Rajan Raut",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Prashant Khanal",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Amit Rajbhandari",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Srijan Maharjan",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Nigam Niraula",
+        "rating": "3 stars"
+    },
+    {
+        "name": "83 Amit Kumar Shah",
+        "rating": "1 star"
+    },
+    {
+        "name": "Abhishek Mainali",
+        "rating": "1 star"
+    },
+    {
+        "name": "JUNGI ALE YT",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Kiran Kharel (KeeyRun)",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Chiranjeevi Adhikari",
+        "rating": "3 stars"
+    },
+    {
+        "name": "amrit karmacharya",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Prazal Limbu",
+        "rating": "1 star"
+    },
+    {
+        "name": "cba bohara",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Aabhash Ghimire",
+        "rating": "5 stars"
+    },
+    {
+        "name": "John Nepali",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Ayush Nepal",
+        "rating": "4 stars"
+    },
+    {
+        "name": "WollyMc Folly",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Bikash",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Om Bikram Thapa",
+        "rating": "3 stars"
+    },
+    {
+        "name": "C Abhay",
+        "rating": "1 star"
+    },
+    {
+        "name": "Samrat Bhattarai",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Anil Yonjan",
+        "rating": "1 star"
+    },
+    {
+        "name": "Subash Koirala",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Rubin Poudel",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Beraj Ranjit",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Aditya Prabhune",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Naba Raj Gautam",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Sameer Dahal",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Navin Singh",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Sachin Shah",
+        "rating": "1 star"
+    },
+    {
+        "name": "anil lama",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Pawan Suwal",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Rajan Raut",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Bipul Neupane",
+        "rating": "1 star"
+    },
+    {
+        "name": "Rohit Chaudhary",
+        "rating": "1 star"
+    },
+    {
+        "name": "Almik Pandey",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Bishal Kunwar",
+        "rating": "5 stars"
+    },
+    {
+        "name": "rohit thakuri",
+        "rating": "1 star"
+    },
+    {
+        "name": "Ramesh Sarki",
+        "rating": "5 stars"
+    },
+    {
+        "name": "Dipesh Bhattarai",
+        "rating": "1 star"
+    },
+    {
+        "name": "Siddhartha Dhanuk",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Abhishek shrestha",
+        "rating": "3 stars"
+    },
+    {
+        "name": "Ananta Bhadra Lamichhane",
+        "rating": "4 stars"
+    },
+    {
+        "name": "Laxman Thapa",
+        "rating": "1 star"
+    },
+    {
+        "name": "Sagar Pandey",
+        "rating": "2 stars"
+    },
+    {
+        "name": "Nischal Niraula",
+        "rating": "2 stars"
+    }
+]
